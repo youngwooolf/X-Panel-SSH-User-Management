@@ -64,7 +64,7 @@ echo -e "  5)XPanel v2.8"
 echo -ne "${GREEN}\nSelect Version : ${ENDCOLOR}" ;read n
 if [ "$n" != "" ]; then
 if [ "$n" == "1" ]; then
-linkd=https://api.github.com/repos/youngwooolf/X-Panel-SSH-User-Management/releases/tags/xpanelv34
+linkd=https://api.github.com/repos/Alirezad07/X-Panel-SSH-User-Management/releases/tags/xpanelv34
 fi
 if [ "$n" == "2" ]; then
 linkd=https://api.github.com/repos/Alirezad07/X-Panel-SSH-User-Management/releases/tags/xpanelv31
